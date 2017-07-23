@@ -1,0 +1,23 @@
+.border-right {
+	border-right: 10px solid #fff;
+	margin-right: -12px;
+}
+.border-left {
+	border-left: 10px solid #fff;
+	margin-left: -12px;
+}
+.border-bottom {
+	border-bottom: 10px solid #fff;
+	margin-bottom: -12px;
+}
+.border-top {
+	border-top: 10px solid #fff;
+	margin-bottom: -12px;
+}
+.min-height-top {
+	min-height: 300px;
+	width: 100%;
+}
+.min-height {
+	min-height: 200px;
+}
