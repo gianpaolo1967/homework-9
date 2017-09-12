@@ -14,11 +14,11 @@ html {
 }
 .items {
 	border-left: 1px solid #fff;
-	
+
 }
 ul li {
 	display: inline-block;
-	width: 13.8%;
+	width: 13%;
 	height: 50px;
 	line-height: 52px;
 	text-align: center;
